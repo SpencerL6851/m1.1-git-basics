@@ -2,5 +2,3 @@
 Here's some text
 
 Here's some more text
-
-Github push 3
